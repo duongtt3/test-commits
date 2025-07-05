@@ -1,2 +1,3 @@
-# test-commits
-this is test commits
+# test-commit
+commit 1
+this is test commits nice to know
